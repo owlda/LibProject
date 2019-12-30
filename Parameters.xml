@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<parameters>
+  <parameter name="DefaultConnection-Web.config Connection String"
+      description="DefaultConnection"
+      defaultValue="Data Source=tcp:libproject.database.windows.net,1433;Initial Catalog=LibraryProject_db;Persist Security Info=True;User ID=admindb@libproject;Password=P@ssw0rd" />
+</parameters>
